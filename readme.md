@@ -1,15 +1,20 @@
-#Zoku app#
+# Zoku Inspire
 
-###Running live server###
-To run a live server first
-  1. install a version of python.
+Zoku Inspire is a prototype that helps bring visitors of the Zoku hotel together. Hotel guests can use this app to organize and attend workshops.
 
-  2. Open your terminal and typ:
-    * ifconfig (this command will give you a list of info)
-    * look for your ip. inet xxx.xxx.x.xx netmask (the xxx.xxx.x.xx)
+## About Zoku
+Zoku is a new concept in the hotel industry. Their goal is to bring people together under one roof. It's not just a hotel, it's a place where people can share knowledge, ideas and get to know inspiring people and companies.
+<video preload="auto" autoplay="" loop="" muted="" poster="4582" style="width: 100%; height: auto;"><source src="https://livezoku.com/wp-content/uploads/2017/06/stayzoku.webm" type="video/webm" class="webmsource"><source src="https://livezoku.com/wp-content/uploads/2017/06/stayzoku.mp4" type="video/mp4" class="mp4source"></video>
 
-  3. Then in the terminal run: " npm start " or "npm run budo"
-    * it will say
-      "Serving HTTP on 0.0.0.0 port 8000 ..."
+## Concept
+Zoku Inspire is a way to get the guests of Zoku familiar with the city. By sharing knowledge, guests will meet new people with common interest.
 
-  4. Visit the pages go to your browser and type your ip+port (xxx.xxx.x.xx:8000)
+A guest can you his or her mobile phone to create a workshop. This workshop will be displayed on a bigger screen, at a central point in the hotel lobby.
+
+## Live demo
+A live demo can be found [here](https://eltongonc.github.io/zoku/)
+
+## Authors
+- [Elton Gonçalves Gomes](https://github.com/eltongonc)
+- [Lotte Feenstra](https://github.com/feenstl003)
+- Misja Hermans
